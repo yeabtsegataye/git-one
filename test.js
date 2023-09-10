@@ -1,1 +1,1 @@
-console.log("tati");
+const tati = "variable";
